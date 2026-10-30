@@ -6,7 +6,25 @@ you model in Blender. Models are exported as **.glb** (with bones) and can go st
 
 Runs on **Windows** and **Android**, with keyboard + mouse, gamepad, and touch.
 
-> Screenshots: _coming soon_ (`docs/screenshots/`)
+## Screenshots
+
+All pictures are rendered by the app itself (a demo mech of 38 pieces built from boxes, slopes, cylinders, cones
+and spheres).
+
+![Build tool: HUD, hotbar and a slope ghost on the shoulder](docs/screenshots/build-hud.png)
+*Build tool: the HUD, the 9-slot hotbar and the ghost preview with its rotation ring.*
+
+![Select tool with move / turn / resize gizmo and the edit panel](docs/screenshots/select-gizmo.png)
+*Select tool: move arrows, turn rings and resize cubes, with exact values in the edit panel.*
+
+![Groups panel with export buttons](docs/screenshots/groups-export.png)
+*Groups panel: each group becomes one part in the exported .glb.*
+
+![Mirror build with the mirror plane and the mirrored ghost](docs/screenshots/mirror-build.png)
+*Mirror build: the piece you place appears on the other side too.*
+
+![Bones panel with a biped skeleton and the skeleton tree](docs/screenshots/bones.png)
+*Bones: a fitted biped skeleton, the bone gizmo and the skeleton tree.*
 
 ## Features
 
