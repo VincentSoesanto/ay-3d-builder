@@ -1,0 +1,21 @@
+{
+    "name": "Builder.Runtime",
+    "rootNamespace": "Builder",
+    "references": [
+        "Builder.Core",
+        "Unity.InputSystem",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "glTFast",
+        "glTFast.Export"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

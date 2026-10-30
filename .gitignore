@@ -1,0 +1,39 @@
+# Unity (project is in 3Dmodeler/)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.apk
+*.aab
+*.unitypackage
+crashlytics-buildid.txt
+sysinfo.txt
+.vs/
+.vscode/
+.idea/
+.utmp/
+__pycache__/
+
+# The built-in part library is real content (the rule above is for Unity's Library cache)
+!3Dmodeler/Assets/StreamingAssets/Library/
+# Made by the test runner during builds
+3Dmodeler/Assets/Resources/PerformanceTestRun*
+3Dmodeler/Assets/Resources.meta
+3Dmodeler/Assets/Resources/
+
+# Built exes / apks (BuilderBuild writes to Build/ at the repository root)
+*.exe
